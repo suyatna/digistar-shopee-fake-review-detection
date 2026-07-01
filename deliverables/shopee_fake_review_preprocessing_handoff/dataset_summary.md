@@ -35,4 +35,4 @@ shopee_fake_review_modeling_dataset.csv
 - `text_for_model` berisi teks yang sudah dipreproses.
 - `final_label` adalah target modeling.
 - `split_hint` disiapkan agar baseline pertama tidak perlu membuat split dari nol.
-- Label tambahan berasal dari rule-based candidate labeling. Belum ada validasi internal Shopee.
+- Label tambahan berasal dari rule-based candidate labeling.
