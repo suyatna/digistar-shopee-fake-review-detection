@@ -1,9 +1,5 @@
 # Processing Notes
 
-## Scope
-
-Paket ini hanya untuk handoff data preprocessing. Tidak ada training model di folder ini.
-
 ## Input Data
 
 Sumber data yang dipakai:
