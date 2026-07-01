@@ -65,4 +65,4 @@ Dataset publik tidak memiliki:
 
 Fitur tersebut tidak dibuat.
 
-Label tambahan belum setara dengan validasi internal platform. Untuk baseline modeling, dataset ini sudah siap. Untuk klaim production-grade, label dan data internal masih perlu diperkuat.
+Label tambahan belum setara dengan validasi internal platform. Untuk baseline modeling, dataset ini sudah siap.
